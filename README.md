@@ -1,2 +1,2 @@
-# ARoundUs
-This app for AR everywhere
+# iFish
+This app for fish everywhere
