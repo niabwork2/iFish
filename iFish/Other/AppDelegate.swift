@@ -21,7 +21,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             let storyboard = UIStoryboard(name: "Main", bundle: nil)
             _ = storyboard.instantiateViewController(withIdentifier: "TabController")
             
-            tabBarController.selectedIndex = 0
+            tabBarController.selectedIndex = 1
 //            vc.tabBarItem = UITabBarItem(tabBarSystemItem: .bookmarks, tag: 1)
 //            tabBarController.viewControllers?.append(vc)
         }

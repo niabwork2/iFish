@@ -11,7 +11,7 @@ class GalleryTableViewController: UIViewController {
     @IBOutlet weak var tableView: UITableView!
     
     //var MediaArray: Array<Any> = []
-    var limit = 100
+    var limit = 5
     
     var AllDataAPIArray = [DataObject]()
     var AllSpeciesAPIArray = [MediaList]()

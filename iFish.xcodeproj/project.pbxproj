@@ -12,6 +12,7 @@
 		8C24BCDD266CE1B80016EB66 /* MainTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C24BCDC266CE1B80016EB66 /* MainTabBarController.swift */; };
 		8C3EA81126652F5400A62D9E /* DataObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C3EA81026652F5400A62D9E /* DataObject.swift */; };
 		8C3EA8132665303300A62D9E /* DataAll.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C3EA8122665303300A62D9E /* DataAll.swift */; };
+		8C62A02626D23B9A00210895 /* fishAnnotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C62A02526D23B9A00210895 /* fishAnnotation.swift */; };
 		8C705E8E26D17516007A34FC /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = 8C705E8D26D17516007A34FC /* Kingfisher */; };
 		8C7C89F726074EB900F0A777 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7C89F626074EB900F0A777 /* AppDelegate.swift */; };
 		8C7C89FB26074EB900F0A777 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7C89FA26074EB900F0A777 /* ViewController.swift */; };
@@ -19,6 +20,8 @@
 		8C7C8A0026074EB900F0A777 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C7C89FF26074EB900F0A777 /* Assets.xcassets */; };
 		8C7C8A0326074EB900F0A777 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C7C8A0126074EB900F0A777 /* LaunchScreen.storyboard */; };
 		8C9EB15B266C0C3600D7B942 /* GalleryTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C9EB15A266C0C3600D7B942 /* GalleryTableViewController.swift */; };
+		8CA70A3626D211FC00928A09 /* fish-ani.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8CA70A3526D211FC00928A09 /* fish-ani.gif */; };
+		8CA70A3826D2135D00928A09 /* swift+gif.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CA70A3726D2135D00928A09 /* swift+gif.swift */; };
 		8CEC42B426C9295D003EB257 /* SpeciesAll.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEC42B326C9295D003EB257 /* SpeciesAll.swift */; };
 		8CEC42B626C929E1003EB257 /* MediaObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEC42B526C929E1003EB257 /* MediaObject.swift */; };
 		8CEC42BA26C9343B003EB257 /* MediaList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEC42B926C9343B003EB257 /* MediaList.swift */; };
@@ -32,6 +35,7 @@
 		8C24BCDC266CE1B80016EB66 /* MainTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabBarController.swift; sourceTree = "<group>"; };
 		8C3EA81026652F5400A62D9E /* DataObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataObject.swift; sourceTree = "<group>"; };
 		8C3EA8122665303300A62D9E /* DataAll.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataAll.swift; sourceTree = "<group>"; };
+		8C62A02526D23B9A00210895 /* fishAnnotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fishAnnotation.swift; sourceTree = "<group>"; };
 		8C7C89F326074EB800F0A777 /* iFish.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iFish.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C7C89F626074EB900F0A777 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8C7C89FA26074EB900F0A777 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,6 +44,8 @@
 		8C7C8A0226074EB900F0A777 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8C7C8A0426074EB900F0A777 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8C9EB15A266C0C3600D7B942 /* GalleryTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryTableViewController.swift; sourceTree = "<group>"; };
+		8CA70A3526D211FC00928A09 /* fish-ani.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "fish-ani.gif"; sourceTree = "<group>"; };
+		8CA70A3726D2135D00928A09 /* swift+gif.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "swift+gif.swift"; sourceTree = "<group>"; };
 		8CEC42B326C9295D003EB257 /* SpeciesAll.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeciesAll.swift; sourceTree = "<group>"; };
 		8CEC42B526C929E1003EB257 /* MediaObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediaObject.swift; sourceTree = "<group>"; };
 		8CEC42B926C9343B003EB257 /* MediaList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediaList.swift; sourceTree = "<group>"; };
@@ -72,6 +78,7 @@
 			isa = PBXGroup;
 			children = (
 				8C7C89FA26074EB900F0A777 /* ViewController.swift */,
+				8C62A02526D23B9A00210895 /* fishAnnotation.swift */,
 			);
 			path = tab1;
 			sourceTree = "<group>";
@@ -142,8 +149,10 @@
 			isa = PBXGroup;
 			children = (
 				8C7C89FF26074EB900F0A777 /* Assets.xcassets */,
+				8CA70A3526D211FC00928A09 /* fish-ani.gif */,
 				8C7C89F626074EB900F0A777 /* AppDelegate.swift */,
 				8C7C8A0126074EB900F0A777 /* LaunchScreen.storyboard */,
+				8CA70A3726D2135D00928A09 /* swift+gif.swift */,
 			);
 			path = Other;
 			sourceTree = "<group>";
@@ -225,6 +234,7 @@
 				8C7C8A0326074EB900F0A777 /* LaunchScreen.storyboard in Resources */,
 				8C7C8A0026074EB900F0A777 /* Assets.xcassets in Resources */,
 				8C7C89FE26074EB900F0A777 /* Main.storyboard in Resources */,
+				8CA70A3626D211FC00928A09 /* fish-ani.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,10 +291,12 @@
 				8C24BCDB266CD14D0016EB66 /* GalleryCell.swift in Sources */,
 				8C24BCDD266CE1B80016EB66 /* MainTabBarController.swift in Sources */,
 				8CEC42B626C929E1003EB257 /* MediaObject.swift in Sources */,
+				8CA70A3826D2135D00928A09 /* swift+gif.swift in Sources */,
 				8CEC42B426C9295D003EB257 /* SpeciesAll.swift in Sources */,
 				8C7C89FB26074EB900F0A777 /* ViewController.swift in Sources */,
 				8C12390B267F3AB400200FEE /* GalleryDetailViewController.swift in Sources */,
 				8C7C89F726074EB900F0A777 /* AppDelegate.swift in Sources */,
+				8C62A02626D23B9A00210895 /* fishAnnotation.swift in Sources */,
 				8CEC42BA26C9343B003EB257 /* MediaList.swift in Sources */,
 				8C3EA81126652F5400A62D9E /* DataObject.swift in Sources */,
 				8C3EA8132665303300A62D9E /* DataAll.swift in Sources */,
